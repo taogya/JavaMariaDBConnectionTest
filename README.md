@@ -1,0 +1,2 @@
+# JavaMariaDBConnectionTest
+Javaを使用したMariaDB接続テスト用コード
